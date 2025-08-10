@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "titulo": "Superman",
+    "genero": "Aventura",
+    "descricao": "",
+    "votosPositivos": 0,
+    "votosNegativos": 0,
+    "imagemUrl": "https://tse2.mm.bing.net/th/id/OIP.E4SAqRxRbJTncg4R7mObDwHaDt?r=0&cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 2,
+    "titulo": "Quarteto Fantástico",
+    "genero": "Ação",
+    "descricao": "",
+    "votosPositivos": 0,
+    "votosNegativos": 0,
+    "imagemUrl": "https://th.bing.com/th/id/R.212977e87f7dc7be7daf73f0d3a24197?rik=3Qk6MqGRHea6Zw&riu=http%3a%2f%2fwww.pretessencias.com.br%2fwp-content%2fuploads%2f2025%2f04%2f01-Capa-Pretessencias-8-7.png&ehk=sSMB3hKX3hZebwxyAhuz9yM7Z8iw%2feDgALgerOs4q%2bg%3d&risl=&pid=ImgRaw&r=0"
+  },
+  {
+    "id": 3,
+    "titulo": "Questão de Tempo",
+    "genero": "Romance",
+    "descricao": "",
+    "votosPositivos": 0,
+    "votosNegativos": 0,
+    "imagemUrl": "https://tse3.mm.bing.net/th/id/OIP.TivvKnG8RZQqxsjs8UnkywHaLH?r=0&cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 4,
+    "titulo": "Lilo & Stitch",
+    "genero": "Comédia",
+    "descricao": "",
+    "votosPositivos": 1,
+    "votosNegativos": 0,
+    "imagemUrl": "https://i.ytimg.com/vi/euYGJkMoPTM/maxresdefault.jpg"
+  },
+  {
+    "id": 5,
+    "titulo": "Gente Grande",
+    "genero": "Comédia",
+    "descricao": "",
+    "votosPositivos": 3,
+    "votosNegativos": 3,
+    "imagemUrl": "https://image.tmdb.org/t/p/original/jJ15tYBtxeLxfMecbnQvgV0uoI5.jpg"
+  },
+  {
+    "id": 6,
+    "titulo": "Capitão américa",
+    "genero": "ação",
+    "descricao": "",
+    "imagemUrl": "https://4.bp.blogspot.com/-reSQUcmCRIc/V5zjZ7ZJy9I/AAAAAAAAH1s/fiw1LNa9DWsiMwRHsRbMzCPdiOwU-H6jACLcB/s1600/2011+Captain+America+First+Avenger.png",
+    "votosPositivos": 0,
+    "votosNegativos": 1
+  },
+  {
+    "id": 7,
+    "titulo": "the chosen",
+    "genero": "documentário",
+    "descricao": "óewsikf´dpok",
+    "imagemUrl": "https://people.com/thmb/C7ZuDx3XryhYpLq6cANakOrAngw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/the-chosen-10132333-fe116a8da0074c4d9ff5ec5d833ab619.jpg",
+    "votosPositivos": 0,
+    "votosNegativos": 0
+  }
+]
+  
