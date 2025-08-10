@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simulador de Votação</title>
+    <link rel="stylesheet" href="style.css">
+   
+</head>
+<body>
+  <main class="container">
+    <header class="topbar">
+        <h1>Cine Mosten</h1>
+        <nav>
+        <a  style="color: aliceblue;" ="btn-link" href="lista.html">Ver Lista completa</a>
+        </nav>
+    </header>
+    <section class="panel split">
+        <div class="card form-card">
+            <h2>Cadastrar um novo Filme/ Série</h2>
+            <form id="form-cadastro" class="form">
+                <label>
+                    Titulo <input id="titulo" name="titulo" required placeholder="titulo" required placeholder="Ex: O Senhor dos Anéis">
+                </label>
+                 <label>
+                    Gênero <input id="genero" name="genero" required placeholder="genero" required placeholder="Ex: Ação">
+                </label>
+                <label>
+                    URL da Imagem <input id="imagemURL" name="imagemURL" required placeholder="http://..." type="url">
+                </label>
+                  <label>
+                    Descrição <textarea id="descricao" name="descricao" rows="4" placeholder="Sinopse (opicional)"></textarea>
+                </label>
+                <div class="form-actions">
+                    <button class="btn primary" type="submit">Cadastrar</button>
+                    <button class="btn ghost" type="button" id="limparBtn">Limpar</button>
+                </div>
+            </form>
+            
+        </div>
+        <div class="card list-card">
+            <h2>Lançamentos</h2>
+            <div id="lista-filmes" class="grid">
+                 
+            </div>
+            <div class="totals">
+              
+                <div>👍<span id="total-gostei">0</span></div>
+                <div>👎<span id="total-naoGostei">0</span></div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer muted">
+        <p>Processo de Formação --- <code style="color: blueviolet;">Mosten<code></p>
+        <p style="color: azure;">versão mobile disponível!</p>
+    </footer>  
+  </main>
+  <div id="toast" class="toast hide"></div>
+
+    <script src="console.js"></script>
+</body>
+</html>
