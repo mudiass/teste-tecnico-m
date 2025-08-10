@@ -1,33 +1,31 @@
-# Backend do Projeto - Teste Técnico M
+# Projeto Teste Técnico M
 
-![Diagrama de Arquitetura do Backend](https://github.com/mudiass/teste-tecnico-m/issues/1#issue-3307900317)
+![Arquitetura do Projeto](https://github.com/mudiass/teste-tecnico-m/issues/1#issue-3307900317)
 
 ## Descrição
 
-Este é o backend do projeto [Teste Técnico M](https://github.com/mudiass/teste-tecnico-m), desenvolvido para fornecer APIs que suportam as funcionalidades da aplicação.
+Este projeto consiste em um sistema completo dividido em frontend e backend, desenvolvido para [descrever brevemente o objetivo do projeto]. O backend fornece as APIs e lógica de negócio, enquanto o frontend é a interface do usuário.
 
-## Como Rodar Localmente
+---
 
-### Pré-requisitos
+## Tecnologias Utilizadas
 
-- [Node.js](https://nodejs.org/) (versão LTS recomendada)
-- [npm](https://www.npmjs.com/) ou [Yarn](https://yarnpkg.com/)
+- **Backend:**
+  - Node.js
+  - Express
+  - CORS
+  - Outros pacotes npm conforme o package.json
 
-### Passos para executar
+- **Frontend:**
+  - [Descreva as tecnologias do frontend: React, Vue, HTML/CSS/JS, etc.]
 
-```bash
-# Clone o repositório
-git clone https://github.com/mudiass/teste-tecnico-m.git
+---
 
-# Entre na pasta do backend
-cd teste-tecnico-m/backend
+## Como Rodar o Projeto Localmente
 
-# Instale as dependências
-npm install
-# ou
-yarn install
+### Passos para rodar o backend
 
-# Inicie o servidor
-npm start
-# ou
-yarn start
+1. Clone o repositório:
+
+   ```bash
+   git clone https://github.com/mudiass/teste-tecnico-m.git
