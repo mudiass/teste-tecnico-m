@@ -24,13 +24,11 @@ séries, registrando votos positivos e negativos.. O backend fornece as APIs e l
   - CSS
   - Javascript
 
----- **Como rodar o projeto**
-(necessário node instalado)
-No terminal digite:
-  - cd backend
-  - npm server.js
+
 
 ## Como Rodar o Projeto Localmente
+  - cd backend
+  - npm server.js
 
 ### Passos para rodar o backend
 
