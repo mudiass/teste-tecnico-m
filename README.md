@@ -5,7 +5,8 @@
 
 ## Descrição
 
-Este projeto consiste em um sistema completo dividido em frontend e backend, desenvolvido para [descrever brevemente o objetivo do projeto]. O backend fornece as APIs e lógica de negócio, enquanto o frontend é a interface do usuário.
+Este projeto consiste em um sistema completo dividido em frontend e backend, desenvolvido para Desenvolver um sistema que permita aos usuários votarem em uma lista de filmes ou 
+séries, registrando votos positivos e negativos.. O backend fornece as APIs e lógica de negócio, enquanto o frontend é a interface do usuário.
 
 ---
 
@@ -19,7 +20,9 @@ Este projeto consiste em um sistema completo dividido em frontend e backend, des
   - API Local
 
 - **Frontend:**
-  - [Descreva as tecnologias do frontend: React, Vue, HTML/CSS/JS, etc.]
+  - HTML
+  - CSS
+  - Javascript
 
 ---- **Como rodar o projeto**
 (necessário node instalado)
