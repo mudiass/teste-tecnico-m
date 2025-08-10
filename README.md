@@ -1,6 +1,6 @@
 # Projeto Teste Técnico M
 
-![Arquitetura do Projeto](https://github.com/mudiass/teste-tecnico-m/issues/1#issue-3307900317)
+![Arquitetura do Projeto]([https://github.com/mudiass/teste-tecnico-m/issues/1#issue-3307900317](https://github.com/mudiass/teste-tecnico-m/issues/1))
 
 ## Descrição
 
