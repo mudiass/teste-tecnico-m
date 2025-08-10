@@ -15,11 +15,16 @@ Este projeto consiste em um sistema completo dividido em frontend e backend, des
   - Express
   - CORS
   - Outros pacotes npm conforme o package.json
+  - API Local
 
 - **Frontend:**
   - [Descreva as tecnologias do frontend: React, Vue, HTML/CSS/JS, etc.]
 
----
+---- **Como rodar o projeto**
+(necessário node instalado)
+No terminal digite:
+  - cd backend
+  - npm server.js
 
 ## Como Rodar o Projeto Localmente
 
