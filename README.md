@@ -27,6 +27,7 @@ séries, registrando votos positivos e negativos.. O backend fornece as APIs e l
 
 
 ## Como Rodar o Projeto Localmente
+(no Terminal)
   - cd backend
   - npm server.js
 
