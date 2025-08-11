@@ -5,7 +5,7 @@
 
 ## Descrição
 
-Este projeto consiste em um sistema completo dividido em frontend e backend, desenvolvido para Desenvolver um sistema que permita aos usuários votarem em uma lista de filmes ou 
+Este projeto consiste em um sistema completo dividido em frontend e backend,  para um sistema que permita aos usuários votarem em uma lista de filmes ou 
 séries, registrando votos positivos e negativos.. O backend fornece as APIs e lógica de negócio, enquanto o frontend é a interface do usuário.
 
 ---
